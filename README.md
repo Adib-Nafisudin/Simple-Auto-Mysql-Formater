@@ -7,4 +7,4 @@ how to use:
     example.csv -> example.txt
 2.  open mysql_formater.py and insert the file you want to make in mysql format
 3.  Input the corresponding data type, length or value, if its null or not, and primary key
-4.  File has been formated into mysql type, its saved as mysql_formater.py
+4.  File has been formated into mysql type, its saved as mysql_formater.sql
