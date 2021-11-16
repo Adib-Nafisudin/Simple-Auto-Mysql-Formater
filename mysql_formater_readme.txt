@@ -1,4 +1,4 @@
-    MYSQL FORMATER 
+SIMPLE AUTO MYSQL FORMATER 
 ---------------------
 only support Comma Seperated Value file (csv)
 how to use:
