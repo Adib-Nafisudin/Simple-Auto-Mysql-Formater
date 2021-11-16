@@ -1,8 +1,6 @@
 # Simple Auto Mysql Formater
  instantly create mysql format using CSV file
-
-    MYSQL FORMATER 
----------------------
+ 
 only support Comma Seperated Value file (csv)
 how to use:
 1.  change the csv file extention into text file(txt)
