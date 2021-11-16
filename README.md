@@ -2,6 +2,7 @@
  instantly create mysql format using CSV file
  
 only support Comma Seperated Value file (csv)
+
 how to use:
 1.  change the csv file extention into text file(txt)
     example.csv -> example.txt
